@@ -1,0 +1,10 @@
+{
+  "name": "Shlink URL shortener",
+  "description": "Shorten links in your clipboard with Shlink",
+  "uuid": "shlink@timoschwarzer.github.io",
+  "settings-schema": "org.gnome.shell.extensions.shlink",
+  "url": "https://github.com/timoschwarzer/gnome-shell-extension-shlink",
+  "shell-version": [
+    "3.36"
+  ]
+}
